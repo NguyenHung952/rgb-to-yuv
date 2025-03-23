@@ -1,4 +1,3 @@
-<!-- script.js -->
 <script>
     document.getElementById("generateMatrix").addEventListener("click", function () {
         let size = parseInt(document.getElementById("matrixSize").value);
